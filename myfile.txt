@@ -1,1 +1,3 @@
 Practice text file
+This file was created to recap a few commands
+practice making changes on github
